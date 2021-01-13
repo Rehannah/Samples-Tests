@@ -44,7 +44,7 @@ int main () {
 			return 404;
 			}
 			else {
-			cout << "Words list successfully retrieved." << endl <<endl;
+			cout << "Words list successfully retrieved." << endl;
 			while (!in.eof()) {
 				in >> Words[i];
 				i++;
