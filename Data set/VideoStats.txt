@@ -1,0 +1,16 @@
+- Video Statistics -
+Starting date: 20/7/2020
+Ending date: 6/10/2020
+
+Number of days processed: 79
+
+The total number of views: 366030
+The total number of likes: 164531
+The total number of dislikes: 82931
+
+The average number of views: 4633.29
+The average number of likes: 2082.67
+The average number of dislikes: 1049.76
+
+The day with the highest number of views = 19 with 11107 views.
+The day with the second highest number of views = 18 with 9853 views.

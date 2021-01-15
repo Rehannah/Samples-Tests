@@ -1,0 +1,68 @@
+On 2/8/2020:
+Number of likes: 464
+Number of dislikes: 4741
+
+On 3/8/2020:
+Number of likes: 508
+Number of dislikes: 6391
+
+On 12/8/2020:
+Number of likes: 512
+Number of dislikes: 710
+
+On 17/8/2020:
+Number of likes: 1738
+Number of dislikes: 2144
+
+On 19/8/2020:
+Number of likes: 203
+Number of dislikes: 516
+
+On 26/8/2020:
+Number of likes: 1006
+Number of dislikes: 2790
+
+On 27/8/2020:
+Number of likes: 1015
+Number of dislikes: 1801
+
+On 8/9/2020:
+Number of likes: 1092
+Number of dislikes: 1697
+
+On 9/9/2020:
+Number of likes: 1222
+Number of dislikes: 1965
+
+On 11/9/2020:
+Number of likes: 1303
+Number of dislikes: 2209
+
+On 12/9/2020:
+Number of likes: 1323
+Number of dislikes: 2240
+
+On 15/9/2020:
+Number of likes: 1405
+Number of dislikes: 2307
+
+On 18/9/2020:
+Number of likes: 1419
+Number of dislikes: 2311
+
+On 24/9/2020:
+Number of likes: 1097
+Number of dislikes: 1750
+
+On 26/9/2020:
+Number of likes: 746
+Number of dislikes: 1345
+
+On 0/10/2020:
+Number of likes: 926
+Number of dislikes: 1475
+
+On 5/10/2020:
+Number of likes: 1431
+Number of dislikes: 2716
+
