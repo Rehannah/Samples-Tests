@@ -1,0 +1,274 @@
+	~ Results ~
+
+The highest blood sugar level was: 289
+It occurred on:
+day 183
+day 185
+
+Blood sugar level was higher than 100 on these three consecutive days: 
+Day 3,	 Blood sugar level = 125
+Day 4,	 Blood sugar level = 121
+Day 5,	 Blood sugar level = 115
+
+Day 4,	 Blood sugar level = 121
+Day 5,	 Blood sugar level = 115
+Day 6,	 Blood sugar level = 120
+
+Day 10,	 Blood sugar level = 101
+Day 11,	 Blood sugar level = 105
+Day 12,	 Blood sugar level = 121
+
+Day 11,	 Blood sugar level = 105
+Day 12,	 Blood sugar level = 121
+Day 13,	 Blood sugar level = 145
+
+Day 12,	 Blood sugar level = 121
+Day 13,	 Blood sugar level = 145
+Day 14,	 Blood sugar level = 224
+
+Day 13,	 Blood sugar level = 145
+Day 14,	 Blood sugar level = 224
+Day 15,	 Blood sugar level = 264
+
+Day 17,	 Blood sugar level = 119
+Day 18,	 Blood sugar level = 131
+Day 19,	 Blood sugar level = 104
+
+Day 61,	 Blood sugar level = 117
+Day 62,	 Blood sugar level = 131
+Day 63,	 Blood sugar level = 120
+
+Day 62,	 Blood sugar level = 131
+Day 63,	 Blood sugar level = 120
+Day 64,	 Blood sugar level = 102
+
+Day 70,	 Blood sugar level = 128
+Day 71,	 Blood sugar level = 118
+Day 72,	 Blood sugar level = 121
+
+Day 71,	 Blood sugar level = 118
+Day 72,	 Blood sugar level = 121
+Day 73,	 Blood sugar level = 107
+
+Day 72,	 Blood sugar level = 121
+Day 73,	 Blood sugar level = 107
+Day 74,	 Blood sugar level = 127
+
+Day 73,	 Blood sugar level = 107
+Day 74,	 Blood sugar level = 127
+Day 75,	 Blood sugar level = 241
+
+Day 74,	 Blood sugar level = 127
+Day 75,	 Blood sugar level = 241
+Day 76,	 Blood sugar level = 186
+
+Day 75,	 Blood sugar level = 241
+Day 76,	 Blood sugar level = 186
+Day 77,	 Blood sugar level = 122
+
+Day 81,	 Blood sugar level = 107
+Day 82,	 Blood sugar level = 126
+Day 83,	 Blood sugar level = 119
+
+Day 85,	 Blood sugar level = 103
+Day 86,	 Blood sugar level = 101
+Day 87,	 Blood sugar level = 124
+
+Day 86,	 Blood sugar level = 101
+Day 87,	 Blood sugar level = 124
+Day 88,	 Blood sugar level = 205
+
+Day 87,	 Blood sugar level = 124
+Day 88,	 Blood sugar level = 205
+Day 89,	 Blood sugar level = 250
+
+Day 88,	 Blood sugar level = 205
+Day 89,	 Blood sugar level = 250
+Day 90,	 Blood sugar level = 281
+
+Day 89,	 Blood sugar level = 250
+Day 90,	 Blood sugar level = 281
+Day 91,	 Blood sugar level = 230
+
+Day 90,	 Blood sugar level = 281
+Day 91,	 Blood sugar level = 230
+Day 92,	 Blood sugar level = 208
+
+Day 91,	 Blood sugar level = 230
+Day 92,	 Blood sugar level = 208
+Day 93,	 Blood sugar level = 234
+
+Day 92,	 Blood sugar level = 208
+Day 93,	 Blood sugar level = 234
+Day 94,	 Blood sugar level = 134
+
+Day 93,	 Blood sugar level = 234
+Day 94,	 Blood sugar level = 134
+Day 95,	 Blood sugar level = 119
+
+Day 94,	 Blood sugar level = 134
+Day 95,	 Blood sugar level = 119
+Day 96,	 Blood sugar level = 113
+
+Day 98,	 Blood sugar level = 235
+Day 99,	 Blood sugar level = 212
+Day 100,	 Blood sugar level = 284
+
+Day 99,	 Blood sugar level = 212
+Day 100,	 Blood sugar level = 284
+Day 101,	 Blood sugar level = 200
+
+Day 100,	 Blood sugar level = 284
+Day 101,	 Blood sugar level = 200
+Day 102,	 Blood sugar level = 175
+
+Day 101,	 Blood sugar level = 200
+Day 102,	 Blood sugar level = 175
+Day 103,	 Blood sugar level = 125
+
+Day 102,	 Blood sugar level = 175
+Day 103,	 Blood sugar level = 125
+Day 104,	 Blood sugar level = 126
+
+Day 103,	 Blood sugar level = 125
+Day 104,	 Blood sugar level = 126
+Day 105,	 Blood sugar level = 120
+
+Day 104,	 Blood sugar level = 126
+Day 105,	 Blood sugar level = 120
+Day 106,	 Blood sugar level = 109
+
+Day 105,	 Blood sugar level = 120
+Day 106,	 Blood sugar level = 109
+Day 107,	 Blood sugar level = 120
+
+Day 123,	 Blood sugar level = 107
+Day 124,	 Blood sugar level = 122
+Day 125,	 Blood sugar level = 109
+
+Day 124,	 Blood sugar level = 122
+Day 125,	 Blood sugar level = 109
+Day 126,	 Blood sugar level = 130
+
+Day 128,	 Blood sugar level = 102
+Day 129,	 Blood sugar level = 115
+Day 130,	 Blood sugar level = 109
+
+Day 157,	 Blood sugar level = 202
+Day 158,	 Blood sugar level = 282
+Day 159,	 Blood sugar level = 228
+
+Day 158,	 Blood sugar level = 282
+Day 159,	 Blood sugar level = 228
+Day 160,	 Blood sugar level = 151
+
+Day 159,	 Blood sugar level = 228
+Day 160,	 Blood sugar level = 151
+Day 161,	 Blood sugar level = 139
+
+Day 160,	 Blood sugar level = 151
+Day 161,	 Blood sugar level = 139
+Day 162,	 Blood sugar level = 284
+
+Day 161,	 Blood sugar level = 139
+Day 162,	 Blood sugar level = 284
+Day 163,	 Blood sugar level = 173
+
+Day 162,	 Blood sugar level = 284
+Day 163,	 Blood sugar level = 173
+Day 164,	 Blood sugar level = 223
+
+Day 163,	 Blood sugar level = 173
+Day 164,	 Blood sugar level = 223
+Day 165,	 Blood sugar level = 180
+
+Day 164,	 Blood sugar level = 223
+Day 165,	 Blood sugar level = 180
+Day 166,	 Blood sugar level = 283
+
+Day 165,	 Blood sugar level = 180
+Day 166,	 Blood sugar level = 283
+Day 167,	 Blood sugar level = 284
+
+Day 166,	 Blood sugar level = 283
+Day 167,	 Blood sugar level = 284
+Day 168,	 Blood sugar level = 202
+
+Day 167,	 Blood sugar level = 284
+Day 168,	 Blood sugar level = 202
+Day 169,	 Blood sugar level = 148
+
+Day 168,	 Blood sugar level = 202
+Day 169,	 Blood sugar level = 148
+Day 170,	 Blood sugar level = 195
+
+Day 169,	 Blood sugar level = 148
+Day 170,	 Blood sugar level = 195
+Day 171,	 Blood sugar level = 273
+
+Day 170,	 Blood sugar level = 195
+Day 171,	 Blood sugar level = 273
+Day 172,	 Blood sugar level = 229
+
+Day 171,	 Blood sugar level = 273
+Day 172,	 Blood sugar level = 229
+Day 173,	 Blood sugar level = 214
+
+Day 172,	 Blood sugar level = 229
+Day 173,	 Blood sugar level = 214
+Day 174,	 Blood sugar level = 156
+
+Day 173,	 Blood sugar level = 214
+Day 174,	 Blood sugar level = 156
+Day 175,	 Blood sugar level = 203
+
+Day 174,	 Blood sugar level = 156
+Day 175,	 Blood sugar level = 203
+Day 176,	 Blood sugar level = 220
+
+Day 175,	 Blood sugar level = 203
+Day 176,	 Blood sugar level = 220
+Day 177,	 Blood sugar level = 260
+
+Day 176,	 Blood sugar level = 220
+Day 177,	 Blood sugar level = 260
+Day 178,	 Blood sugar level = 263
+
+Day 177,	 Blood sugar level = 260
+Day 178,	 Blood sugar level = 263
+Day 179,	 Blood sugar level = 154
+
+Day 178,	 Blood sugar level = 263
+Day 179,	 Blood sugar level = 154
+Day 180,	 Blood sugar level = 200
+
+Day 179,	 Blood sugar level = 154
+Day 180,	 Blood sugar level = 200
+Day 181,	 Blood sugar level = 204
+
+Day 180,	 Blood sugar level = 200
+Day 181,	 Blood sugar level = 204
+Day 182,	 Blood sugar level = 251
+
+Day 181,	 Blood sugar level = 204
+Day 182,	 Blood sugar level = 251
+Day 183,	 Blood sugar level = 289
+
+Day 182,	 Blood sugar level = 251
+Day 183,	 Blood sugar level = 289
+Day 184,	 Blood sugar level = 262
+
+Day 183,	 Blood sugar level = 289
+Day 184,	 Blood sugar level = 262
+Day 185,	 Blood sugar level = 289
+
+Day 184,	 Blood sugar level = 262
+Day 185,	 Blood sugar level = 289
+Day 186,	 Blood sugar level = 260
+
+The number of days the blood sugar level was NOT measured = 10
+The percentage of days the blood sugar level was NOT measured = 5.3%
+
+Number of spikes: 41
+Biggest spike was 145 and ocurred between days 161, with a blood sugar level of 139, and 162 with a blood sugar level of 284
+
