@@ -12,9 +12,7 @@ void printStars (int n) {
 	
 	for (i=1; i<=n; i=i+1) 
 		cout << "*";
-
 }
-
 
 //Main Function:
 int main () {
@@ -54,8 +52,7 @@ int main () {
 	
 	ofstream Output;
 	Output.open("results.txt");
-	
-	
+		
 	//Initialising all locations in the arrays to 0
 	for (i=0;i<500;i++) {
 		glucose[i] = 0;
@@ -74,8 +71,7 @@ int main () {
 	while (glucose[i]>=0 && days <=500) {	//Ensures that the number of values in the file is within the size of the arrray
 		days++; //counter for the number of readings stored in the file and also the number of days
 	
-	
-		Finding the highest blood sugar level
+		//Finding the highest blood sugar level
 		if (glucose[i] > maxbsl) {
 			maxbsl = glucose[i];
 		}
@@ -207,9 +203,7 @@ int main () {
 	
 	//Closing files
 	Input.close();
-	Output.close();
-	
+	Output.close();	
 
 	return 0;
 } //End of program
-
