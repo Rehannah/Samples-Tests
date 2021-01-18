@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head> <link rel="stylesheet" href="stylesheet.css"> </head>
+
+<title> New Year Hack </title
+
+
+<div class = "heading">
+<h1> My New Year's Resolutions </h1>
+</div>
+<br>
+ <body>
+ <input type="text" id="input" placeholder="Add items to do:"/>
+ <span onclick="newElement()" class="addb" id="add_button"> <button> ADD </button> </span>
+ 
+ <ol>
+<li> <h3> Book List for 2021 </h3> </li>
+ <ul id="myUL">
+ <li> Choose Wonder Over Worry</li>
+  <li class="checked"> Bible </li>
+  <li>Charlie Bone and the Red King</li>
+  <li> To Kill a Mockingbird </li>
+ </ul>
+
+<br>
+<li> <h3> Anime List for 2021 </h3> </li>
+</ol>
+ <ul id="myUL">
+ <li> Your Lie in April</li>
+  <li class="checked"> The Rising of the Shield Hero </li>
+  <li> Over the Moon</li>
+  <li> Kaguya-sama: Love is War </li>
+ </ul>
+ 
+ </body>
+ 
+ <script>
+ var close = document.getElementsByClassName("close");
+var i;
+for (i = 0; i < close.length; i++) {
+  close[i].onclick = function() {
+    var div = this.parentElement;
+    div.style.display = "none";
+  }
+}
+
+// Add a "checked" symbol when clicking on a list item
+var list = document.querySelector('ul');
+list.addEventListener('click', function(ev) {
+  if (ev.target.tagName === 'LI') {
+    ev.target.classList.toggle('checked');
+  }
+}, false);
+
+// Create a new list item when clicking on the "Add" button
+function newElement() {
+  var li = document.createElement("li");
+  var inputValue = document.getElementById("myInput").value;
+  var t = document.createTextNode(inputValue);
+  li.appendChild(t);
+  if (inputValue === '') {
+    alert("You must write something!");
+  } else {
+    document.getElementById("myUL").appendChild(li);
+  }
+  document.getElementById("myInput").value = "";
+
+  var span = document.createElement("SPAN");
+  var txt = document.createTextNode("\u00D7");
+  span.className = "close";
+  span.appendChild(txt);
+  li.appendChild(span);
+
+  for (i = 0; i < close.length; i++) {
+    close[i].onclick = function() {
+      var div = this.parentElement;
+      div.style.display = "none";
+    }
+  }
+}
+ </script>
+
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
