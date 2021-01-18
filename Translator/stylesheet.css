@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+*{
+	margin:5px;
+	padding:1px;
+	box-sizing: border-box;
+	margin-left: 10px
+}
+
+img {
+	width: 5%;
+	height: 10%;
+}
+
+h1 {
+	font-family: 'Muli', Times New Roman;
+	letter-spacing:2px;
+	margin-bottom:15px;
+}
+
+
+
+
